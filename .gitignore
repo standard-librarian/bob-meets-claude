@@ -1,0 +1,11 @@
+# Obsidian workspace state (personal, not shared)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp

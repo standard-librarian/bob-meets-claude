@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#source/clean-code",
+      "color": {
+        "a": 1,
+        "rgb": 4059392
+      }
+    },
+    {
+      "query": "tag:#source/anthropic",
+      "color": {
+        "a": 1,
+        "rgb": 14742880
+      }
+    },
+    {
+      "query": "tag:#topic/naming",
+      "color": {
+        "a": 1,
+        "rgb": 16763904
+      }
+    },
+    {
+      "query": "tag:#topic/functions",
+      "color": {
+        "a": 1,
+        "rgb": 3394611
+      }
+    },
+    {
+      "query": "tag:#topic/structure",
+      "color": {
+        "a": 1,
+        "rgb": 1748218
+      }
+    },
+    {
+      "query": "tag:#topic/tdd",
+      "color": {
+        "a": 1,
+        "rgb": 9699539
+      }
+    },
+    {
+      "query": "tag:#topic/architecture",
+      "color": {
+        "a": 1,
+        "rgb": 14098432
+      }
+    },
+    {
+      "query": "tag:#topic/claude-code",
+      "color": {
+        "a": 1,
+        "rgb": 16744192
+      }
+    },
+    {
+      "query": "tag:#meta",
+      "color": {
+        "a": 1,
+        "rgb": 8947848
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.4,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 200,
+  "scale": 1.9665485612178746,
+  "close": true
+}
