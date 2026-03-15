@@ -20,15 +20,7 @@ tags:
 
 ## 🎯 Key Takeaways
 
-*What were the 2–3 most important ideas from this video/lesson?*
-
--
--
--
-
-## 💡 New Concepts Learned
-
-*Things I didn't know before watching this.*
+*What were the most important ideas from this video/lesson? What did you not know before?*
 
 -
 
@@ -52,9 +44,9 @@ tags:
 
 -
 
-## 📎 Code Snippet or Example
+## 📎 Example *(skip if not applicable)*
 
-*Paste a short snippet or pseudocode that illustrates the key idea.*
+*A snippet or quote that captures the key idea.*
 
 ```
 ```
