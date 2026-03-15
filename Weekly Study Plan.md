@@ -29,9 +29,9 @@ tags:
 **Theme:** What is clean code and why does naming matter?
 
 ### Clean Code Videos
-- [ ] [[01 - Introduction]] `#week/1` `#topic/naming` `#source/clean-code`
-- [ ] [[02 - Clean Code (Remake)]] `#week/1` `#topic/naming` `#source/clean-code`
-- [ ] [[03 - Names++]] `#week/1` `#topic/naming` `#source/clean-code`
+- [x] [[01 - Introduction]] `#week/1` `#topic/naming` `#source/clean-code`
+- [x] [[02 - Clean Code (Remake)]] `#week/1` `#topic/naming` `#source/clean-code`
+- [x] [[03 - Names++]] `#week/1` `#topic/naming` `#source/clean-code`
 
 ### Anthropic: Claude Code in Action — Part 1: Basics
 - [ ] [[CC01 - Welcome & Course Overview]] `#week/1` `#topic/claude-code` `#source/anthropic`

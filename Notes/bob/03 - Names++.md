@@ -24,7 +24,7 @@ The naming episode. Longest and most concrete of the ones watched so far. Most o
 
 ## 🎯 Key Takeaways
 
-- **Names exist to communicate intent, not for your convenience.** If you need a comment to explain the name, the name failed. Variable names are "compilable comments" — they should document intent by themselves.
+- **Names exist to communicate [[intent]], not for your convenience.** If you need a comment to explain the name, the name failed. Variable names are "compilable comments" — they should document intent by themselves.
 - **Avoid disinformation.** A name that doesn't mean what it says is one of the worst things a programmer can do. `SerialDate` is wrong because the class is abstract — the name implies a concrete implementation detail that subclasses could override entirely. Names must not drift as code changes; if the meaning changes, so does the name.
 - **Names must be pronounceable.** Uncle Bob and Bullet Bob's war story: they worked with a codebase that used `gwd` everywhere and didn't know how to pronounce it, so one called it "good-aay" and the other "good-bee." People need to *say* names in conversations. Abbreviations that nobody can pronounce are a tax on every code review and pairing session.
 - **Drop the encodings.** Hungarian Notation was invented by Charles Simonyi (Hungarian-born chief architect at Microsoft during the DOS era) when IDEs didn't exist and you couldn't hover to see a type. That world is gone. `I` prefix for interfaces, `m_` for members, `C` for classes — these distract, obfuscate, and cost more in reading friction than they ever saved in type-tracking. Let the IDE, compiler, and tests do that job.
