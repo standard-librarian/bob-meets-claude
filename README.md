@@ -63,7 +63,9 @@ Each video and lesson gets its own note, created from the template. Notes are ta
 
 ## Weekly Exercises
 
-Each week has a hands-on exercise applied to a real open-source codebase:
+Each week has a hands-on exercise applied to a real open-source codebase.
+
+### JavaScript Track
 
 | Week | Codebase | Focus |
 |------|----------|-------|
@@ -72,7 +74,18 @@ Each week has a hands-on exercise applied to a real open-source codebase:
 | 3 | [express](https://github.com/expressjs/express) | Structure — read like prose, map the vertical layers |
 | 4 | [jest](https://github.com/jestjs/jest) | TDD — read tests before source, identify architectural layers |
 
-Full exercise instructions are in the [Weekly Study Plan](study/Weekly%20Study%20Plan.md).
+### Multi-Language Tracks
+
+**Choose your language** — the clean code principles apply identically across all of them. Each week includes alternative exercises for **Go**, **Java**, **Python**, and **Rust**:
+
+| Week | Go | Java | Python | Rust |
+|------|-----|------|--------|------|
+| 1 | [cobra](https://github.com/spf13/cobra) | [guava](https://github.com/google/guava) | — | — |
+| 2 | [gin](https://github.com/gin-gonic/gin) | — | [requests](https://github.com/psf/requests) | — |
+| 3 | — | [spring-framework](https://github.com/spring-projects/spring-framework) | — | [ripgrep](https://github.com/BurntSushi/ripgrep) |
+| 4 | [testify](https://github.com/stretchr/testify) | [junit5](https://github.com/junit-team/junit5) | [pytest](https://github.com/pytest-dev/pytest) | — |
+
+Full exercise instructions for all languages are in the [Weekly Study Plan](study/Weekly%20Study%20Plan.md).
 
 ---
 
