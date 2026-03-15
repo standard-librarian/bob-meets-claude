@@ -17,10 +17,10 @@ tags:
 
 | Week | Theme | Clean Code Focus | Anthropic Course |
 |------|-------|-----------------|-----------------|
-| 1 | Foundations | Intro & naming principles | Basics: architecture & setup |
-| 2 | Functions | What makes a good function | Intermediate: context & custom commands |
-| 3 | Structure & Form | How code should look and feel | Advanced: MCP & GitHub workflows |
-| 4 | TDD & Architecture | Testing and big-picture design | Expert: Hooks and the SDK |
+| 1 | Foundations | Intro & naming principles | Course Overview |
+| 2 | Functions | What makes a good function | Getting hands on (pt. 1): setup & context |
+| 3 | Structure & Form | How code should look and feel | Getting hands on (pt. 2): MCP & GitHub |
+| 4 | TDD & Architecture | Testing and big-picture design | Hooks and the SDK |
 
 ---
 
@@ -33,10 +33,10 @@ tags:
 - [ ] [[02 - Clean Code (Remake)]] `#week/1` `#topic/naming` `#source/clean-code`
 - [ ] [[03 - Names++]] `#week/1` `#topic/naming` `#source/clean-code`
 
-### Anthropic: Claude Code in Action — Part 1: Basics
-- [ ] [[CC01 - Welcome & Course Overview]] `#week/1` `#topic/claude-code` `#source/anthropic`
-- [ ] [[CC02 - What Is Claude Code]] `#week/1` `#topic/claude-code` `#source/anthropic`
-- [ ] [[CC03 - Getting Started & Setup]] `#week/1` `#topic/claude-code` `#source/anthropic`
+### Anthropic: Claude Code in Action — Course Overview
+- [ ] [[CC01 - Introduction]] `#week/1` `#topic/claude-code` `#source/anthropic`
+- [ ] [[CC02 - What is a coding assistant?]] `#week/1` `#topic/claude-code` `#source/anthropic`
+- [ ] [[CC03 - Claude Code in action]] `#week/1` `#topic/claude-code` `#source/anthropic`
 
 ### 🧪 Exercise — Week 1
 
@@ -63,10 +63,14 @@ Lodash is one of the most widely-used JavaScript utility libraries and has excel
 - [ ] [[06 - Functions Screencast — Prime Generator]] `#week/2` `#topic/functions` `#source/clean-code`
 - [ ] [[07 - Functions Screencast — Video Store]] `#week/2` `#topic/functions` `#source/clean-code`
 
-### Anthropic: Claude Code in Action — Part 2: Intermediate
-- [ ] [[CC04 - Context Management]] `#week/2` `#topic/claude-code` `#source/anthropic`
-- [ ] [[CC05 - Custom Commands]] `#week/2` `#topic/claude-code` `#source/anthropic`
-- [ ] [[CC06 - Practical Refactoring with Claude Code]] `#week/2` `#topic/claude-code` `#source/anthropic`
+### Anthropic: Claude Code in Action — Getting hands on (pt. 1)
+- [ ] [[CC04 - Claude Code setup]] `#week/2` `#topic/claude-code` `#source/anthropic`
+- [ ] [[CC05 - Project setup]] `#week/2` `#topic/claude-code` `#source/anthropic`
+- [ ] [[CC06 - Adding context]] `#week/2` `#topic/claude-code` `#source/anthropic`
+- [ ] [[CC07 - Making changes]] `#week/2` `#topic/claude-code` `#source/anthropic`
+- [ ] [[CC08 - Course satisfaction survey]] `#week/2` `#topic/claude-code` `#source/anthropic`
+- [ ] [[CC09 - Controlling context]] `#week/2` `#topic/claude-code` `#source/anthropic`
+- [ ] [[CC10 - Custom commands]] `#week/2` `#topic/claude-code` `#source/anthropic`
 
 ### 🧪 Exercise — Week 2
 
@@ -94,9 +98,9 @@ Axios is the most popular HTTP client for JavaScript. Its source code (~2,000 li
 - [ ] [[10 - Form]] `#week/3` `#topic/structure` `#source/clean-code`
 - [ ] [[11 - Form Screencast — Lychrel]] `#week/3` `#topic/structure` `#source/clean-code`
 
-### Anthropic: Claude Code in Action — Part 3: Advanced
-- [ ] [[CC07 - MCP Server Integration]] `#week/3` `#topic/claude-code` `#source/anthropic`
-- [ ] [[CC08 - GitHub Workflows with Claude Code]] `#week/3` `#topic/claude-code` `#source/anthropic`
+### Anthropic: Claude Code in Action — Getting hands on (pt. 2)
+- [ ] [[CC11 - MCP servers with Claude Code]] `#week/3` `#topic/claude-code` `#source/anthropic`
+- [ ] [[CC12 - Github integration]] `#week/3` `#topic/claude-code` `#source/anthropic`
 
 ### 🧪 Exercise — Week 3
 
@@ -122,9 +126,18 @@ Express.js is the gold standard of clean, readable Node.js code. The entire fram
 - [ ] [[13 - TDD — Part 2]] `#week/4` `#topic/tdd` `#source/clean-code`
 - [ ] [[14 - Architecture, Use Cases and High Level Design]] `#week/4` `#topic/architecture` `#source/clean-code`
 
-### Anthropic: Claude Code in Action — Part 4: Expert
-- [ ] [[CC09 - Hooks in Claude Code]] `#week/4` `#topic/claude-code` `#source/anthropic`
-- [ ] [[CC10 - The Claude Code SDK]] `#week/4` `#topic/claude-code` `#source/anthropic`
+### Anthropic: Claude Code in Action — Hooks and the SDK
+- [ ] [[CC13 - Introducing hooks]] `#week/4` `#topic/claude-code` `#source/anthropic`
+- [ ] [[CC14 - Defining hooks]] `#week/4` `#topic/claude-code` `#source/anthropic`
+- [ ] [[CC15 - Implementing a hook]] `#week/4` `#topic/claude-code` `#source/anthropic`
+- [ ] [[CC16 - Gotchas around hooks]] `#week/4` `#topic/claude-code` `#source/anthropic`
+- [ ] [[CC17 - Useful hooks!]] `#week/4` `#topic/claude-code` `#source/anthropic`
+- [ ] [[CC18 - Another useful hook]] `#week/4` `#topic/claude-code` `#source/anthropic`
+- [ ] [[CC19 - The Claude Code SDK]] `#week/4` `#topic/claude-code` `#source/anthropic`
+
+### Anthropic: Claude Code in Action — Wrapping up
+- [ ] [[CC20 - Quiz on Claude Code]] `#week/4` `#topic/claude-code` `#source/anthropic`
+- [ ] [[CC21 - Summary and next steps]] `#week/4` `#topic/claude-code` `#source/anthropic`
 
 ### 🧪 Exercise — Week 4
 

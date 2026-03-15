@@ -44,20 +44,31 @@ Each video and lesson gets its own note, created from the template. Notes are ta
 | 13 | TDD — Part 2 | 4 | TDD |
 | 14 | Architecture, Use Cases and High Level Design | 4 | Architecture |
 
-### Part B — Claude Code in Action (10 lessons, Anthropic)
+### Part B — Claude Code in Action (21 lessons, Anthropic)
 
-| # | Lesson | Week | Part |
-|---|--------|------|------|
-| CC01 | Welcome & Course Overview | 1 | Basics |
-| CC02 | What Is Claude Code | 1 | Basics |
-| CC03 | Getting Started & Setup | 1 | Basics |
-| CC04 | Context Management | 2 | Intermediate |
-| CC05 | Custom Commands | 2 | Intermediate |
-| CC06 | Practical Refactoring with Claude Code | 2 | Intermediate |
-| CC07 | MCP Server Integration | 3 | Advanced |
-| CC08 | GitHub Workflows with Claude Code | 3 | Advanced |
-| CC09 | Hooks in Claude Code | 4 | Expert |
-| CC10 | The Claude Code SDK | 4 | Expert |
+| # | Lesson | Week | Section |
+|---|--------|------|---------|
+| CC01 | Introduction | 1 | Course Overview |
+| CC02 | What is a coding assistant? | 1 | Course Overview |
+| CC03 | Claude Code in action | 1 | Course Overview |
+| CC04 | Claude Code setup | 2 | Getting hands on |
+| CC05 | Project setup | 2 | Getting hands on |
+| CC06 | Adding context | 2 | Getting hands on |
+| CC07 | Making changes | 2 | Getting hands on |
+| CC08 | Course satisfaction survey | 2 | Getting hands on |
+| CC09 | Controlling context | 2 | Getting hands on |
+| CC10 | Custom commands | 2 | Getting hands on |
+| CC11 | MCP servers with Claude Code | 3 | Getting hands on |
+| CC12 | Github integration | 3 | Getting hands on |
+| CC13 | Introducing hooks | 4 | Hooks and the SDK |
+| CC14 | Defining hooks | 4 | Hooks and the SDK |
+| CC15 | Implementing a hook | 4 | Hooks and the SDK |
+| CC16 | Gotchas around hooks | 4 | Hooks and the SDK |
+| CC17 | Useful hooks! | 4 | Hooks and the SDK |
+| CC18 | Another useful hook | 4 | Hooks and the SDK |
+| CC19 | The Claude Code SDK | 4 | Hooks and the SDK |
+| CC20 | Quiz on Claude Code | 4 | Wrapping up |
+| CC21 | Summary and next steps | 4 | Wrapping up |
 
 ---
 
