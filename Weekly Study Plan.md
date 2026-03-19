@@ -29,14 +29,14 @@ tags:
 **Theme:** What is clean code and why does naming matter?
 
 ### Clean Code Videos
-- [ ] [[01 - Introduction]] `#week/1` `#topic/naming` `#source/clean-code`
-- [ ] [[02 - Clean Code (Remake)]] `#week/1` `#topic/naming` `#source/clean-code`
-- [ ] [[03 - Names++]] `#week/1` `#topic/naming` `#source/clean-code`
+- [x] [[01 - Introduction]] `#week/1` `#topic/naming` `#source/clean-code`
+- [x] [[02 - Clean Code (Remake)]] `#week/1` `#topic/naming` `#source/clean-code`
+- [x] [[03 - Names++]] `#week/1` `#topic/naming` `#source/clean-code`
 
 ### Anthropic: Claude Code in Action — Course Overview
-- [ ] [[CC01 - Introduction]] `#week/1` `#topic/claude-code` `#source/anthropic`
-- [ ] [[CC02 - What is a coding assistant?]] `#week/1` `#topic/claude-code` `#source/anthropic`
-- [ ] [[CC03 - Claude Code in action]] `#week/1` `#topic/claude-code` `#source/anthropic`
+- [x] [[CC01 - Introduction]] `#week/1` `#topic/claude-code` `#source/anthropic`
+- [x] [[CC02 - What is a coding assistant?]] `#week/1` `#topic/claude-code` `#source/anthropic`
+- [x] [[CC03 - Claude Code in action]] `#week/1` `#topic/claude-code` `#source/anthropic`
 
 ### 🧪 Exercise — Week 1
 
