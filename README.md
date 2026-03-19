@@ -74,16 +74,16 @@ Each video and lesson gets its own note, created from the template. Notes are ta
 
 ## Weekly Exercises
 
-Each week has a hands-on exercise applied to a real open-source codebase:
+Each week has a hands-on exercise applied to a real open-source codebase. **Choose your language** — the clean code principles apply identically across all of them:
 
-| Week | Codebase | Focus |
-|------|----------|-------|
-| 1 | [lodash](https://github.com/lodash/lodash) | Naming — audit function names against Uncle Bob's rules |
-| 2 | [axios](https://github.com/axios/axios) | Functions — find violations and refactor with Claude Code |
-| 3 | [express](https://github.com/expressjs/express) | Structure — read like prose, map the vertical layers |
-| 4 | [jest](https://github.com/jestjs/jest) | TDD — read tests before source, identify architectural layers |
+| Week | Focus | JavaScript | Go | Java | Python | Rust |
+|------|-------|------------|-----|------|--------|------|
+| 1 | Naming | [lodash](https://github.com/lodash/lodash) | [cobra](https://github.com/spf13/cobra) | [guava](https://github.com/google/guava) | — | — |
+| 2 | Functions | [axios](https://github.com/axios/axios) | [gin](https://github.com/gin-gonic/gin) | — | [requests](https://github.com/psf/requests) | — |
+| 3 | Structure & Form | [express](https://github.com/expressjs/express) | — | [spring-framework](https://github.com/spring-projects/spring-framework) | — | [ripgrep](https://github.com/BurntSushi/ripgrep) |
+| 4 | TDD & Architecture | [jest](https://github.com/jestjs/jest) | [testify](https://github.com/stretchr/testify) | [junit5](https://github.com/junit-team/junit5) | [pytest](https://github.com/pytest-dev/pytest) | — |
 
-Full exercise instructions are in the [Weekly Study Plan](study/Weekly%20Study%20Plan.md).
+Full exercise instructions for all languages are in the [Weekly Study Plan](study/Weekly%20Study%20Plan.md).
 
 ---
 
